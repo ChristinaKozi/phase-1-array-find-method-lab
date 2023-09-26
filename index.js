@@ -16,4 +16,4 @@ const record = [
     }
   }
 
-  record.find()
+  console.log(superbowlWin(record));
